@@ -6,7 +6,7 @@ Based on the jQuery plugin [DesignerNews/Reveal-Bar](https://github.com/Designer
 
 ## Example
 
-Check out the [CodePen Demo](https://forc.ir/2kWOXcQ)
+Check out the [CodePen Demo](https://go.paquette.io/2lHYpQg)
 
 ## Usage
 
